@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.AssemblyInfo.cs
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\bin\Debug\net8.0\ST10362208_Prog6221_Part2.ed.exe
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\bin\Debug\net8.0\ST10362208_Prog6221_Part2.ed.deps.json
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\bin\Debug\net8.0\ST10362208_Prog6221_Part2.ed.runtimeconfig.json
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\bin\Debug\net8.0\ST10362208_Prog6221_Part2.ed.dll
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\bin\Debug\net8.0\ST10362208_Prog6221_Part2.ed.pdb
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.dll
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\refint\ST10362208_Prog6221_Part2.ed.dll
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.pdb
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ST10362208_Prog6221_Part2.ed.genruntimeconfig.cache
+C:\Users\USER\source\repos\ST10362208_Prog6221_Part2.ed\obj\Debug\net8.0\ref\ST10362208_Prog6221_Part2.ed.dll
